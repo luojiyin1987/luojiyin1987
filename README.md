@@ -45,9 +45,9 @@ src="https://img.shields.io/github/followers/luojiyin1987?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/luojiyin1987"><img src="https://raw.githubusercontent.com/luojiyin1987/github-readme-stats/profile-stats/stats.svg" alt="luojiyin1987's GitHub stats" /></a>
+<a href="http://www.github.com/luojiyin1987"><img src="https://raw.githubusercontent.com/vizrtluo/github-stats-extended/profile-cards/dist/stats.svg" alt="luojiyin1987's GitHub stats" /></a>
 
-<a href="https://github.com/luojiyin1987" align="left"><img src="https://raw.githubusercontent.com/luojiyin1987/github-readme-stats/profile-stats/top-langs.svg" alt="Top Languages" /></a>
+<a href="https://github.com/luojiyin1987" align="left"><img src="https://raw.githubusercontent.com/vizrtluo/github-stats-extended/profile-cards/dist/top-langs.svg" alt="Top Languages" /></a>
 
 ### Support Me
 
